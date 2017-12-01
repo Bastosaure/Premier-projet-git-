@@ -1,4 +1,4 @@
-<?php include('inc/pdo.php'); ?>
+<?php //include('inc/pdo.php'); ?>
 
 
 
@@ -10,7 +10,7 @@
 <?php include('inc/header.php'); ?>
 
 
-
+<h1>Hello</h1>
 
 
 
